@@ -1,5 +1,5 @@
 import subprocess
 
 # Run x.py from y.py
-subprocess.run(["python", "app.py"])
+subprocess.run(["python", "streamlit_app.py"])
 
